@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou o Dariel dos Santos
 
-🚀 QA Engineer | Testes Automatizados | JavaScript | Cypress | Azure DevOps  
+🚀 Senior QA Engineer | Testes Automatizados | JavaScript | Cypress | Azure DevOps  
 💡 Apaixonado por qualidade de software, melhoria contínua e cultura ágil
 
 ---
