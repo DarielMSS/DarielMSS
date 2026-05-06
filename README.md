@@ -1,14 +1,14 @@
 
 # 👋 Olá, eu sou o Dariel dos Santos
 
-🚀 Senior QA Engineer | Testes Automatizados | JavaScript | Cypress | Azure DevOps  
+🚀 Senior QA Engineer | Test Automation | Cypress | Playwright | API Testing | CI/CD | Quality Engineering 
 💡 Apaixonado por qualidade de software, melhoria contínua e cultura ágil
 
 ---
 
 ## 👨‍💻 Sobre mim
 - 🔍 Atuo com **testes automatizados e manuais**
-- ⚙️ Experiência com **Cypress, Postman e testes de APIs**
+- ⚙️ Experiência com **Playwright, Cypress, Postman e testes de APIs**
 - ☁️ Vivência com **Azure DevOps, CI/CD e Métodos Ágeis**
 - 📈 Interesse em **liderança técnica, Tech Lead e Squad Lead**
 - 🌱 Estudando **React, TypeScript e automação avançada**
@@ -25,6 +25,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Qualidade & Testes
+![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![API Testing](https://img.shields.io/badge/-API%20Testing-005571?style=flat)
